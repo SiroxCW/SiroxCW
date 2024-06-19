@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <h3 align="center">SiroxCW README</h3>
 
-<!--
-**SiroxCW/SiroxCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    An awesome README to tell you about me!
+    <br/>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+## My skills
+- Languages
+  - [x] Python
+  - [X] C#
+  - [X] HTML
+  - [X] CSS
+  - [X] JavaScript
+- Frameworks
+  - [X] React
+- Other
+  - [X] InfluxDB
+  - [X] MySQL
+  - [X] SQLite
+ 
+## Plan to learn
+- Languages
+  - [ ] Swift
+- Frameworks
+  - [ ] Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+I also have a <a href="https://neutronnet.net/">website</a>.
