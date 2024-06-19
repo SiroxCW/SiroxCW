@@ -8,7 +8,7 @@
     I also have a <a href="https://neutronnet.net/">website</a>.
   </p>
   <br/>
-  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=10&layout=donut" />
+  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=1800&layout=donut" />
   <br/>
 </div>
 
