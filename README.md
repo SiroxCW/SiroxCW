@@ -23,7 +23,7 @@
   - [X] JavaScript
   - [X] Bash/Powershell/Batchfile
 - Frameworks
-  - [X] React
+  - [X] ReactJS
 - Other
   - [X] InfluxDB
   - [X] MySQL
@@ -37,5 +37,5 @@
   - [ ] C++
 - Frameworks
   - [ ] Unity
-  - [ ] Electron
+  - [ ] ElectronJS
 </details>
