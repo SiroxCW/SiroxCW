@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">SiroxCW README</h3>
+  <h3 align="center">About me</h3>
 
   <p align="center">
     An awesome README to tell you about me!
