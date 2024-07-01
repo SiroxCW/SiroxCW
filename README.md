@@ -25,6 +25,7 @@
 - Frameworks
   - [X] ReactJS
 - Other
+  - [X] Docker
   - [X] InfluxDB
   - [X] MySQL
   - [X] SQLite
@@ -38,6 +39,4 @@
 - Frameworks
   - [ ] Unity
   - [ ] ElectronJS
-- Other
-  - [ ] Docker
 </details>
