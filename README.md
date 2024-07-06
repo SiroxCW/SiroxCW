@@ -5,7 +5,7 @@
     An awesome README to tell you about me!
     <br/>
     <br/>
-    I have a <a href="https://sirox.dev/">website</a>.
+    I have a <a href="https://sirox.dev/" target="_blank">website</a>.
   </p>
   <br/>
   <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=donut" />
