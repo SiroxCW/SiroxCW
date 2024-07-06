@@ -25,6 +25,7 @@
 - Frameworks
   - [X] ReactJS
 - Other
+  - [X] Network Engineering
   - [X] Docker
   - [X] InfluxDB
   - [X] MySQL
@@ -39,4 +40,5 @@
 - Frameworks
   - [ ] Unity
   - [ ] ElectronJS
+  - [ ] Three.js
 </details>
