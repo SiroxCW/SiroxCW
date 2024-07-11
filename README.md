@@ -2,7 +2,6 @@
   <h3 align="center">About me</h3>
 
   <p align="center">
-    An awesome README to tell you about me!
     <br/>
     <br/>
     <a href="https://sirox.dev/" target="_blank">Website</a> •
