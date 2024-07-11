@@ -2,8 +2,6 @@
   <h3 align="center">About me</h3>
 
   <p align="center">
-    <br/>
-    <br/>
     <a href="https://sirox.dev/" target="_blank">Website</a> •
     <img align="center" width=200 alt="top langs" src="https://status.sirox.dev/api/badge/3/uptime/24?labelPrefix=sirox.dev+&color=%239000ff&labelColor=%23161616" />
   </p>
