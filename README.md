@@ -23,11 +23,11 @@
 - Frameworks
   - [X] ReactJS
 - Other
+  - [X] Linux/Windows System Administration
   - [X] Network Engineering
   - [X] Docker
   - [X] InfluxDB
   - [X] MySQL
-  - [X] SQLite
 </details>
 <details>
 <summary><h2>Plan to learn</h2></summary>
