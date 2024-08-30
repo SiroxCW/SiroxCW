@@ -36,7 +36,6 @@
   - [ ] Swift
   - [ ] C++
 - Frameworks
-  - [ ] Unity
   - [ ] ElectronJS
   - [ ] Three.js
 </details>
