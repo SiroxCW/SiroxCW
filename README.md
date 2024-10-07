@@ -26,6 +26,7 @@
   - [X] Docker
   - [X] InfluxDB
   - [X] MySQL
+  - [X] Cloudflare
 </details>
 <details>
 <summary><h2>Plan to learn</h2></summary>
