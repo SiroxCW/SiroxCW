@@ -20,8 +20,6 @@
   - [X] CSS
   - [X] JavaScript
   - [X] Bash/Powershell/Batchfile
-- Frameworks
-  - [X] ReactJS
 - Other
   - [X] Linux/Windows System Administration
   - [X] Network Engineering
