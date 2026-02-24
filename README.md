@@ -6,7 +6,7 @@
     <img align="center" width=200 alt="top langs" src="" />-->
   </p>
   <br/>
-  <img align="center" height=200 alt="top langs" src="https://github-readme-stats-2-phimaster0303s-projects.vercel.app/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=donut" />
+  <img align="center" height=200 alt="top langs" src="https://ghrs.sirox.dev/api/top-langs?username=SiroxCW&theme=dark&border_radius=10px&CACHE_SECONDS=600&layout=donut" />
   <br/>
 </div>
 
